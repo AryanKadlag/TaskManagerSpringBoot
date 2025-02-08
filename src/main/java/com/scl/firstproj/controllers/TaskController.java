@@ -15,7 +15,7 @@ import java.util.Date;
 public class TaskController {
 
 
-    ArrayList<Task> tasks = new ArrayList<Task>();
+    ArrayList<Task> tasks;
 
     public TaskController() {
 
